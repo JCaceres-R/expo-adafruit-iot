@@ -5,15 +5,6 @@ Material del taller / exposición sobre **Adafruit IO** y una estación meteorol
 
 ---
 
-## Contenido
-- `presentation/` — Presentación PDF usada en la expo. :contentReference[oaicite:0]{index=0}  
-- `code/` — Ejemplos en MicroPython:
-  - `simple_char.py` — script base que simula y publica temperatura, humedad y presión a Adafruit IO. :contentReference[oaicite:1]{index=1}  
-  - `colores.py` — extensión del script con control de LEDs y envío de un feed de color (Color Picker) que cambia según la temperatura; incluye gradiente. :contentReference[oaicite:2]{index=2}
-- `activities/` — Plantillas para las dos actividades (MD).
-- `README.md` — Este archivo.
-- `secrets_example.py` — plantilla para credenciales (no subir tu `secrets.py` real al repo).
-
 ---
 
 ## Resumen del proyecto
